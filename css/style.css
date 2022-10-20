@@ -19,9 +19,12 @@
 header{
     text-align: center;
     color: palevioletred;
-    margin: 20px 0px 20px 0px;
+    margin: 20px 0px 40px 0px;
 }
 
 /* fine header */
 
-
+p{
+    text-align: center;
+    margin-bottom: 40px; 
+}
