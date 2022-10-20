@@ -27,21 +27,29 @@ p{
     margin-bottom: 40px; 
 }
 
-.card{
-    width: 33%;
-    background-color: grey;
-    color: white;
+/* card */
+
+.row .card{
+    float: left;
+    width: calc(100% / 3);
 }
 
-img{
-    width: 75px;
-    height: 75px;
-    float: left;
+.card{
+    width: 250px;
+    background-color: grey;
+    color: white;
     margin-right: 10px;
 }
 
-.card::after{
+img{
+    width: 33%;
+    float: left;
+    margin-right: 5px;
+}
+
+.clearfix::after{
     content: "";
     display: table;
     clear: both;
 }
+/* fine card */
