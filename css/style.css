@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* utili */
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+/* fine utili */
+
+/* header */
+
+header{
+    text-align: center;
+    color: palevioletred;
+    margin: 20px 0px 20px 0px;
+}
+
+/* fine header */
+
+
