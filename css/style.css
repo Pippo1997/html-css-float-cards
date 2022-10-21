@@ -33,13 +33,9 @@ p{
     float: left;
     width: calc(100% / 3 - 10px);
     margin-bottom: 40px;
-}
-
-.card{
     background-color: rgb(45, 44, 51);
     color: white;
     margin-right: 10px;
-    float: left;
     box-shadow: 0 0 5px 5px darkgray;
 }
 
