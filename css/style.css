@@ -36,11 +36,11 @@ p{
 }
 
 .card{
-    width: 33%;
     background-color: rgb(45, 44, 51);
     color: white;
     margin-right: 10px;
     float: left;
+    box-shadow: 0 0 5px 5px darkgray;
 }
 
 img{
@@ -69,3 +69,5 @@ span{
     font-size: 14px;
 }
 /* fine card */
+
+/* fine main */
